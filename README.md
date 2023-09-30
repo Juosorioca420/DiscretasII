@@ -1,2 +1,4 @@
 # DiscretasII
-Asignaciones y Proyectos propuestos para Matemáticas Discretas II - 2023 I
+
+### RSA: Sistema Criptográfico de clave pública
+Se trabajó una implementación del célebre algoritmo RSA desde cero usando herramientas de aritmética Modular.
